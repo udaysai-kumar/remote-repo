@@ -1,0 +1,1 @@
+print("Uday and Akbar")
